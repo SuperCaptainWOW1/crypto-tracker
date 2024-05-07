@@ -1,6 +1,5 @@
-# Nuxt 3 Minimal Starter
-
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# Crypto Tracker
+Simple book order application. Supports pairs: BTCUSDT, BNBBTC, ETHBTC
 
 ## Setup
 
