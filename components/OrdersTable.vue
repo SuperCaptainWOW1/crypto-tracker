@@ -36,7 +36,7 @@ const { width } = useWindowSize();
     </thead>
 
     <tbody>
-      <tr v-for="order in orders" :key="order[0]">
+      <tr v-for="order in orders" :key="order[0] + order[1]">
         <td
           :class="type === 'bid' ? 'text-green-accent-4' : 'text-red-accent-2'"
         >
