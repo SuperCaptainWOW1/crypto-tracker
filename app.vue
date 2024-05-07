@@ -4,7 +4,10 @@
       class="d-flex align-center justify-center"
       style="height: 60px"
     >
-      <h1 class="text-h5 font-weight-bold">Crypto Tracker</h1>
+      <h1 class="text-h5 font-weight-bold">
+        <v-icon icon="$vuetify"></v-icon>
+        Crypto Tracker
+      </h1>
     </v-container>
 
     <v-divider />
